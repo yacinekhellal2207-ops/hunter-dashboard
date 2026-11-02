@@ -1,0 +1,32 @@
+body {
+    background-color: #0f0c1b; /* Fond violet sombre comme votre application */
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background: linear-gradient(145deg, #1b1535, #120e26);
+    border: 2px solid #5a3fa1;
+    border-radius: 12px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 8px 32px rgba(90, 63, 161, 0.3);
+}
+
+h1 {
+    color: #9d76ef;
+    margin-bottom: 20px;
+}
+
+.badge {
+    background-color: #ff3366;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 0.9em;
+}
